@@ -1,0 +1,35 @@
+User 1: 0
+User 1: 0
+User 1: 0
+User 1: -1
+User 1: 0
+User 1: 0
+User 1: 0
+User 1: 0
+User 1: 0
+User 1: 0
+User 1: 0
+User 2: -1
+User 2: -1
+User 2: -1
+User 2: -1
+User 2: -1
+User 2: -1
+User 3: -1
+User 3: -1
+User 3: -1
+User 3: -1
+User 3: -1
+User 3: -1
+Same folder Test: -1
+Same folder Test: -1
+Same folder Test: -1
+Delete All Test: 0
+Delete All Test: 0
+Delete All Test: 0
+Delete All Test: 0
+Delete All Test: 0
+Delete All Test: 0
+Non-empty Test: -1
+Non-empty Test: -1
+Non-empty Test: -1
